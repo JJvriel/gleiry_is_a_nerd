@@ -1,0 +1,22 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    margin-left: 100px;
+}
+
+button {
+    border-radius: 10%;
+    border: dotted;
+    margin-left: 450px;
+    height: 150px;
+    width: 150px;
+}
+
+#btn2 {
+    border-radius: 10%;
+    border: dotted;
+    margin-top: 1px;
+    margin-left: 600px;
+    height: 150px;
+    width: 150px;
+}
